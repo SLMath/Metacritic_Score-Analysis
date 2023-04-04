@@ -1,7 +1,6 @@
 Projeto de ánalise de dados com ferramentas gráficas
 
-Participantes:
-- Matheus Lima
+Colaboração:
 - Willker Menezes
 - José Venancio
 
