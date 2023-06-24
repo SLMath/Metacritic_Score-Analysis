@@ -9,7 +9,40 @@ Using the ["Metacritic Scores for Games, Movies, TV & Music" dataset](https://ww
 we have generate insights about the the correlation between the parameters and their influence over the scores given by the platform and the users.
 
 ### Dataset Metadata
-1. 
+1. Games: 
+* metascore
+* platform
+* release_date
+* sort_no
+* summary
+* title
+* user_score
+
+2. Movies:
+* metascore
+* rating
+* release_date
+* sort_no
+* summary
+* title
+* user_score
+  
+3. Musics:      
+* artist
+* metascore
+* release_date
+* sort_no
+* summary
+* title
+* user_score
+
+4. TV shows:
+* metascore
+* release_date
+* sort_no
+* summary
+* title
+* user_score
 
 ## Gettins Started
 You can try this code on your own by opening google colab, and chossing "File"> "Open notebook" > "GitHub" and inserting the URL for this project. Then you only need to select the notebook file that is shown there.
